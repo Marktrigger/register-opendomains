@@ -1,0 +1,12 @@
+{
+  "description": "Eni's Clothings - online clothing store",
+  "domain": "is-not-a.dev",
+  "subdomain": "emmiant",
+  "owner": {
+    "repo": "https://github.com/Marktrigger/eni-clothing-",
+    "email": "triggermark83@gmail.com"
+  },
+  "record": {
+    "CNAME": "marktrigger.github.io"
+  }
+}
